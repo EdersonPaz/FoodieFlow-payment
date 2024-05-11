@@ -1,0 +1,11 @@
+C:\Users\endri\source\repos\FoodieFlow.Pgm\FoodieFlow.Pgm\FoodieFlow.Pgm.SharedKernel\bin\Debug\net7.0\FoodieFlow.Pgm.SharedKernel.deps.json
+C:\Users\endri\source\repos\FoodieFlow.Pgm\FoodieFlow.Pgm\FoodieFlow.Pgm.SharedKernel\bin\Debug\net7.0\FoodieFlow.Pgm.SharedKernel.dll
+C:\Users\endri\source\repos\FoodieFlow.Pgm\FoodieFlow.Pgm\FoodieFlow.Pgm.SharedKernel\bin\Debug\net7.0\FoodieFlow.Pgm.SharedKernel.pdb
+C:\Users\endri\source\repos\FoodieFlow.Pgm\FoodieFlow.Pgm\FoodieFlow.Pgm.SharedKernel\obj\Debug\net7.0\FoodieFlow.Pgm.SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endri\source\repos\FoodieFlow.Pgm\FoodieFlow.Pgm\FoodieFlow.Pgm.SharedKernel\obj\Debug\net7.0\FoodieFlow.Pgm.SharedKernel.AssemblyInfoInputs.cache
+C:\Users\endri\source\repos\FoodieFlow.Pgm\FoodieFlow.Pgm\FoodieFlow.Pgm.SharedKernel\obj\Debug\net7.0\FoodieFlow.Pgm.SharedKernel.AssemblyInfo.cs
+C:\Users\endri\source\repos\FoodieFlow.Pgm\FoodieFlow.Pgm\FoodieFlow.Pgm.SharedKernel\obj\Debug\net7.0\FoodieFlow.Pgm.SharedKernel.csproj.CoreCompileInputs.cache
+C:\Users\endri\source\repos\FoodieFlow.Pgm\FoodieFlow.Pgm\FoodieFlow.Pgm.SharedKernel\obj\Debug\net7.0\FoodieFlow.Pgm.SharedKernel.dll
+C:\Users\endri\source\repos\FoodieFlow.Pgm\FoodieFlow.Pgm\FoodieFlow.Pgm.SharedKernel\obj\Debug\net7.0\refint\FoodieFlow.Pgm.SharedKernel.dll
+C:\Users\endri\source\repos\FoodieFlow.Pgm\FoodieFlow.Pgm\FoodieFlow.Pgm.SharedKernel\obj\Debug\net7.0\FoodieFlow.Pgm.SharedKernel.pdb
+C:\Users\endri\source\repos\FoodieFlow.Pgm\FoodieFlow.Pgm\FoodieFlow.Pgm.SharedKernel\obj\Debug\net7.0\ref\FoodieFlow.Pgm.SharedKernel.dll

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.UnitTest\\FoodieFlow.UnitTest.csproj": {}
+    "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.UnitTest\\FoodieFlow.UnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.Pgm\\FoodieFlow.Pgm.Core\\FoodieFlow.Pgm.Core.csproj": {
+    "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.Pgm\\FoodieFlow.Pgm.Core\\FoodieFlow.Pgm.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.Pgm\\FoodieFlow.Pgm.Core\\FoodieFlow.Pgm.Core.csproj",
+        "projectUniqueName": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.Pgm\\FoodieFlow.Pgm.Core\\FoodieFlow.Pgm.Core.csproj",
         "projectName": "FoodieFlow.Pgm.Core",
-        "projectPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.Pgm\\FoodieFlow.Pgm.Core\\FoodieFlow.Pgm.Core.csproj",
-        "packagesPath": "C:\\Users\\endri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.Pgm\\FoodieFlow.Pgm.Core\\obj\\",
+        "projectPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.Pgm\\FoodieFlow.Pgm.Core\\FoodieFlow.Pgm.Core.csproj",
+        "packagesPath": "C:\\Users\\SystemLoop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.Pgm\\FoodieFlow.Pgm.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\endri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SystemLoop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.Pgm\\FoodieFlow.Pgm.SharedKernel\\FoodieFlow.Pgm.SharedKernel.csproj": {
-                "projectPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.Pgm\\FoodieFlow.Pgm.SharedKernel\\FoodieFlow.Pgm.SharedKernel.csproj"
+              "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.Pgm\\FoodieFlow.Pgm.SharedKernel\\FoodieFlow.Pgm.SharedKernel.csproj": {
+                "projectPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.Pgm\\FoodieFlow.Pgm.SharedKernel\\FoodieFlow.Pgm.SharedKernel.csproj"
               }
             }
           }
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -85,21 +90,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.Pgm\\FoodieFlow.Pgm.SharedKernel\\FoodieFlow.Pgm.SharedKernel.csproj": {
+    "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.Pgm\\FoodieFlow.Pgm.SharedKernel\\FoodieFlow.Pgm.SharedKernel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.Pgm\\FoodieFlow.Pgm.SharedKernel\\FoodieFlow.Pgm.SharedKernel.csproj",
+        "projectUniqueName": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.Pgm\\FoodieFlow.Pgm.SharedKernel\\FoodieFlow.Pgm.SharedKernel.csproj",
         "projectName": "FoodieFlow.Pgm.SharedKernel",
-        "projectPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.Pgm\\FoodieFlow.Pgm.SharedKernel\\FoodieFlow.Pgm.SharedKernel.csproj",
-        "packagesPath": "C:\\Users\\endri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.Pgm\\FoodieFlow.Pgm.SharedKernel\\obj\\",
+        "projectPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.Pgm\\FoodieFlow.Pgm.SharedKernel\\FoodieFlow.Pgm.SharedKernel.csproj",
+        "packagesPath": "C:\\Users\\SystemLoop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.Pgm\\FoodieFlow.Pgm.SharedKernel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\endri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SystemLoop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -119,6 +124,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -140,21 +150,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.UnitTest\\FoodieFlow.UnitTest.csproj": {
+    "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.UnitTest\\FoodieFlow.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.UnitTest\\FoodieFlow.UnitTest.csproj",
+        "projectUniqueName": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.UnitTest\\FoodieFlow.UnitTest.csproj",
         "projectName": "FoodieFlow.UnitTest",
-        "projectPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.UnitTest\\FoodieFlow.UnitTest.csproj",
-        "packagesPath": "C:\\Users\\endri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.UnitTest\\obj\\",
+        "projectPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.UnitTest\\FoodieFlow.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\SystemLoop\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\endri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SystemLoop\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -168,8 +178,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.Pgm\\FoodieFlow.Pgm.Core\\FoodieFlow.Pgm.Core.csproj": {
-                "projectPath": "C:\\Users\\endri\\source\\repos\\FoodieFlow.Pgm\\FoodieFlow.Pgm\\FoodieFlow.Pgm.Core\\FoodieFlow.Pgm.Core.csproj"
+              "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.Pgm\\FoodieFlow.Pgm.Core\\FoodieFlow.Pgm.Core.csproj": {
+                "projectPath": "C:\\Users\\SystemLoop\\Documents\\GitHub\\Git\\FoodieFlow-payment\\FoodieFlow.Pgm\\FoodieFlow.Pgm.Core\\FoodieFlow.Pgm.Core.csproj"
               }
             }
           }
@@ -178,6 +188,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -237,7 +252,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
         }
       }
     }
